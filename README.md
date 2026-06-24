@@ -165,11 +165,11 @@ http://localhost:8000/docs
 
 ## 🏠 Home Page
 
-![Home Page](screenshots/home.PNG)
+![Home Page](screenshots/home.png)
 
 ## ➕ Add Product
 
-![Add Product](screenshots/create.PNG)
+![Add Product](screenshots/create.png)
 
 ## ✏️ Update Product
 
